@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "data": {
+    "city_has_directions": true,
+    "city_id": 21,
+    "direction_id": 4,
+    "district_id": 624,
+    "city": "الرياض",
+    "direction": "شمال الرياض",
+    "district": "الورود",
+    "city_en": "Riyadh",
+    "direction_en": "North of Riyadh",
+    "district_en": "Al Wurud",
+    "district_rate": 4.12,
+    "district_rate_count": 411
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "data": {
+    "value": 80310,
+    "period_range": "4_2026",
+    "period_type": "monthly",
+    "message_ar": "متوسط أسعار دور للإيجار غرف 3 في حي النرجس",
+    "message_en": "Average Big flat for rent Rooms 3 in النرجس"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "cities": [
+      {
+        "city_id": 21,
+        "name": "الرياض",
+        "name_en": "Riyadh",
+        "count": 22179,
+        "directions": true
+      },
+      {
+        "city_id": 66,
+        "name": "جدة",
+        "name_en": "Jeddah",
+        "count": 4506,
+        "directions": true
+      },
+      {
+        "city_id": 18,
+        "name": "الدمام",
+        "name_en": "Dammam",
+        "count": 1377,
+        "directions": false
+      }
+    ]
+  }
+}

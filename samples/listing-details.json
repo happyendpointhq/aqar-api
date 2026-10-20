@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "data": {
+    "id": 6702552,
+    "category": 1,
+    "city_id": 21,
+    "district_id": 548,
+    "direction_id": 4,
+    "price": 40000,
+    "meter_price": null,
+    "area": 70,
+    "beds": 1,
+    "rooms": 1,
+    "livings": 1,
+    "wc": 1,
+    "age": 0,
+    "fl": 2,
+    "furnished": 1,
+    "status": 0,
+    "views": 2690,
+    "verified": 1,
+    "last_update": 1780245614,
+    "address": "شارع حمود العنسى, حي المروج, مدينة الرياض, منطقة الرياض",
+    "content": "متوفر شقق للإيجار حي المروج عباره عن غرفه وصاله وحمام ومطبخ ...",
+    "uri": "شارع-حمود-العنسى-حي-المروج-مدينة-الرياض-منطقة-الرياض-6702552",
+    "location": {
+      "lat": 24.757247,
+      "lng": 46.661992
+    },
+    "imgs": [
+      "048729072_1779133329415.jpg"
+    ],
+    "images": [
+      {
+        "filename": "048729072_1779133329415.jpg",
+        "thumbnail": "https://images.aqar.fm/webp/200x200/props/048729072_1779133329415.jpg",
+        "full": "https://images.aqar.fm/webp/original/props/048729072_1779133329415.jpg",
+        "raw": "https://images.aqar.fm/048729072_1779133329415.jpg"
+      }
+    ],
+    "ad_license_number": "7200978123"
+  }
+}

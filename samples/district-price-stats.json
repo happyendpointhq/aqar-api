@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "data": {
+    "districts": [
+      {
+        "name": "اشبيلية",
+        "district_id": 390,
+        "values": [
+          {
+            "time_range": "1-2015",
+            "year": 2015,
+            "order": 0,
+            "count": 140,
+            "price": 3947
+          },
+          {
+            "time_range": "2-2023",
+            "year": 2023,
+            "order": 17,
+            "count": 270,
+            "price": 5936
+          }
+        ]
+      }
+    ]
+  }
+}

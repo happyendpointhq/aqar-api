@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": {
+    "total": 7724,
+    "confidence": 1,
+    "parsed_query": {
+      "category_id": 1,
+      "category_name": "شقة للإيجار",
+      "city_id": 21,
+      "city_name": "الرياض",
+      "district_id": null,
+      "beds": 3,
+      "price_min": null,
+      "price_max": null,
+      "area_min": null,
+      "furnished": null
+    },
+    "listings": [
+      {
+        "id": 6661066,
+        "category": 1,
+        "city_id": 21,
+        "district_id": 570,
+        "price": 80000,
+        "meter_price": null,
+        "area": 136,
+        "beds": 3
+      }
+    ]
+  }
+}

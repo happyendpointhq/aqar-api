@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "districts": [
+      {
+        "district_id": 600,
+        "name": "حي النرجس",
+        "name_en": "An Narjis",
+        "count": 1876
+      },
+      {
+        "district_id": 570,
+        "name": "حي الملقا",
+        "name_en": "Al Malqa",
+        "count": 1656
+      },
+      {
+        "district_id": 494,
+        "name": "حي العارض",
+        "name_en": "Al Arid",
+        "count": 1353
+      }
+    ]
+  }
+}
