@@ -315,8 +315,7 @@ above summarises them. Example responses are in [`samples/`](samples/).
 
 ### Is there a free Aqar API?
 
-Plans, including any free tier, are on the RapidAPI listing, where you can test every
-endpoint once subscribed.
+Yes. The RapidAPI listing has a free plan, and every endpoint can be tried on it.
 
 ### Can I get Aqar data in English?
 
