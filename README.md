@@ -352,6 +352,7 @@ Yes, including Wasalt in Saudi Arabia and Bayut and PropertyFinder in the UAE. S
 
 - [wasalt-api](https://github.com/happyendpointhq/wasalt-api) - Saudi property listings, REGA licences, holiday rentals and Infath auctions from Wasalt
 - [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - real estate APIs and data sources by country, including free and official ones
+- [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish property listings for sale and rent, prices and district counts
 - [uae-real-estate-data-guide](https://github.com/happyendpointhq/uae-real-estate-data-guide) - how to get UAE and Dubai property data programmatically
 - [bayut-api](https://github.com/happyendpointhq/bayut-api) - UAE property listings, agents, agencies and transactions
 
