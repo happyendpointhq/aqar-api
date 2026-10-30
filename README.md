@@ -11,6 +11,8 @@ Built and maintained by [Happy Endpoint](https://happyendpoint.com/library/aqar-
 
 - Subscribe and test every endpoint on RapidAPI: https://rapidapi.com/happyendpoint/api/aqar
 - Product page: https://happyendpoint.com/library/aqar-api?utm_source=github&utm_medium=readme&utm_campaign=aqar-api
+- Postman documentation: https://documenter.getpostman.com/view/56555678/2sBYHVxf8t
+- Postman collection (fork and run): https://www.postman.com/happyendpoints-team/aqar-api
 
 ---
 
